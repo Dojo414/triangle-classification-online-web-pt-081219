@@ -1,3 +1,3 @@
 class Triangle
-  # write code here
+  def initialize(:side_one, :side)
 end
